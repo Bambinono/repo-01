@@ -1,2 +1,2 @@
 # repo-01
-Primer REpositorio
+Primer Repositorio
